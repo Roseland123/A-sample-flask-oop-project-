@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Local data / DB
+data/raw/
+em_credit_quant.db
+
+# IDE
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+
+# Env files
+.env
